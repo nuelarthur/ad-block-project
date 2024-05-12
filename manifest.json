@@ -1,0 +1,188 @@
+{
+    "manifest_version": 3,
+    "name": "Ad Blocker Project",
+    "version": "1.0.0",
+    "permissions": [
+        "declarativeNetRequest", "storage", "activeTab", "webNavigation", "declarativeNetRequestWithHostAccess", "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_0",
+                "enabled": true,
+                "path": "rules.json"
+            },
+            {
+                "id": "ruleset_4",
+                "enabled": true,
+                "path": "rules/basic_rules.json"
+            },
+            {
+                "id": "ruleset_7",
+                "enabled": true,
+                "path": "rules/easylist_rules.json"
+            },
+            {
+                "id": "ruleset_8a",
+                "enabled": true,
+                "path": "rules/everything_1_rules.json"
+            },
+            {
+                "id": "ruleset_8b",
+                "enabled": true,
+                "path": "rules/everything_2_rules.json"
+            },
+            {
+                "id": "ruleset_8c",
+                "enabled": true,
+                "path": "rules/everything_3_rules.json"
+            },
+            {
+                "id": "ruleset_8d",
+                "enabled": true,
+                "path": "rules/everything_4_rules.json"
+            },
+            {
+                "id": "ruleset_8e",
+                "enabled": true,
+                "path": "rules/everything_5_rules.json"
+            },
+            {
+                "id": "ruleset_8f",
+                "enabled": true,
+                "path": "rules/everything_6_rules.json"
+            },
+            {
+                "id": "ruleset_8g",
+                "enabled": true,
+                "path": "rules/everything_7_rules.json"
+            },
+            {
+                "id": "ruleset_8h",
+                "enabled": true,
+                "path": "rules/everything_8_rules.json"
+            },
+            {
+                "id": "ruleset_8i",
+                "enabled": true,
+                "path": "rules/everything_9_rules.json"
+            },
+            {
+                "id": "ruleset_8j",
+                "enabled": true,
+                "path": "rules/everything_10_rules.json"
+            },
+            {
+                "id": "ruleset_8k",
+                "enabled": true,
+                "path": "rules/everything_11_rules.json"
+            },
+            {
+                "id": "ruleset_8l",
+                "enabled": true,
+                "path": "rules/everything_12_rules.json"
+            },
+            {
+                "id": "ruleset_8m",
+                "enabled": true,
+                "path": "rules/everything_13_rules.json"
+            },
+            {
+                "id": "ruleset_8n",
+                "enabled": true,
+                "path": "rules/everything_14_rules.json"
+            },
+            {
+                "id": "ruleset_8o",
+                "enabled": true,
+                "path": "rules/everything_15_rules.json"
+            },
+            {
+                "id": "ruleset_8p",
+                "enabled": true,
+                "path": "rules/everything_16_rules.json"
+            },
+            {
+                "id": "ruleset_8q",
+                "enabled": true,
+                "path": "rules/everything_17_rules.json"
+            },
+            {
+                "id": "ruleset_8r",
+                "enabled": true,
+                "path": "rules/everything_18_rules.json"
+            },
+            {
+                "id": "ruleset_8s",
+                "enabled": true,
+                "path": "rules/everything_19_rules.json"
+            },
+            {
+                "id": "ruleset_8t",
+                "enabled": true,
+                "path": "rules/everything_20_rules.json"
+            },
+            {
+                "id": "ruleset_8u",
+                "enabled": true,
+                "path": "rules/everything_21_rules.json"
+            },
+            {
+                "id": "ruleset_8v",
+                "enabled": true,
+                "path": "rules/everything_22_rules.json"
+            },
+            {
+                "id": "ruleset_8w",
+                "enabled": true,
+                "path": "rules/everything_23_rules.json"
+            },
+            {
+                "id": "ruleset_8x",
+                "enabled": true,
+                "path": "rules/everything_24_rules.json"
+            },
+            {
+                "id": "ruleset_10",
+                "enabled": true,
+                "path": "rules/fortnite_rules.json"
+            },
+            {
+                "id": "ruleset_11",
+                "enabled": true,
+                "path": "rules/fraud_rules.json"
+            },
+            {
+                "id": "ruleset_20",
+                "enabled": true,
+                "path": "rules/smart-tv_rules.json"
+            },
+            {
+                "id": "ruleset_21",
+                "enabled": true,
+                "path": "rules/tiktok_rules.json"
+            },
+            {
+                "id": "ruleset_22",
+                "enabled": true,
+                "path": "rules/torrent_rules.json"
+            },
+            {
+                "id": "ruleset_24",
+                "enabled": true,
+                "path": "rules/twitter_rules.json"
+            }
+        ]
+    }
+}

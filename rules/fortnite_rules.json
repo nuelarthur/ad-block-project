@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23fortnite%20blocklist%20for%20pi%20hole%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Afortnite-matchmaking-public-service-live-eu.ol.epicgames.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Afortnite-matchmaking-public-service-live-eu.ol.epicgames.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Aeos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Aeos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Adatarouter.ol.epicgames.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2Aaccount-service-prod03-pub-ak-1731030959.us-east-1.elb.amazonaws.com%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    }
+]

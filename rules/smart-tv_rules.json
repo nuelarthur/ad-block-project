@@ -1,0 +1,1742 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20------------------------------------%5BUPDATE%5D--------------------------------------%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Title%3A%20The%20Block%20List%20Project%20-%20Smart%20TV%20List%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Expires%3A%201%20day%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Homepage%3A%20https%3A//blocklist.site%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Help%3A%20https%3A//github.com/blocklistproject/lists/wiki/%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20License%3A%20https%3A//unlicense.org%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Total%20number%20of%20network%20filters%3A%2072%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20------------------------------------%5BSUPPORT%5D-------------------------------------%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20You%20can%20support%20by%3A%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20-%20reporting%20false%20positives%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20-%20making%20a%20donation%3A%20https%3A//paypal.me/blocklistproject%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20-------------------------------------%5BINFO%5D---------------------------------------%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20Smart%20TV%20list%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "%2A%23%20------------------------------------%5BFILTERS%5D-------------------------------------%2A",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://acr0.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ad.lgappstv.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ads.samsungads.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://aic-ngfts.lge.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://amarillo.sb.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://az43064.vo.msecnd.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://bif.sr.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://cdn.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://cloudservices.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://config.samsungads.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://control-zoo-dtsstage.tvinteractive.tv/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://cooper.logs.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://coordinator-production-28516768.us-east-1.elb.amazonaws.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://d179kwmlpc4o47.cloudfront.ne/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://d1oxlq5h9kq8q5.cloudfront.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://d2tnx644ijgq6i.cloudfront.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://d3mjsomixevyw7.cloudfront.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://edgesuite.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://eu-auth2.samsungosp.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://events.samsungads.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://game.internetat.tv/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://gpm.samsungqbe.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://img-resize-cdn-prod.samsungnyc.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://infolink.pavv.co.kr/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://lcprd1.samsungcloudsolution.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://lgad.cjpowercast.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://log-1.samsungacr.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://log-2.samsungacr.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://log-config.samsungacr.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ngfts.lge.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://notice.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://noticecdn.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://noticefile.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ns11.whois.co.kr/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ocfconnect-shard-eu02-euwest1.samsungiotcloud.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://oempprd.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://osb-v2.samsungqbe.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://p.ads.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://premium-videos.telly.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungacr.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungads.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungcloudsolution.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungotn.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://samsungrm.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://scribe.logs.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://scs.samsungqbe.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://smartclip.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://smartclip.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://smartshare.lgtvsdp.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://static.doubleclick.net/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://syncplusconfig.s3.amazonaws.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://targeted-config-test.samsungacr.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://time.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://traces.sr.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 71,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://track.sr.roku.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 72,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://tvinteractive.tv/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 73,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://tvx.adgrx.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 74,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://uimetadata.samsungiotcloud.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 75,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://us.ad.lgsmartad.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://us.ibs.lgappstv.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 77,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://us.info.lgsmartad.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 78,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://us.lgtvsdp.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 79,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://us.rdx2.lgtvsdp.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 80,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://vdterms.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 81,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://yumenetworks.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 82,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://osb-apps-v2.samsungqbe.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 83,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://osb.samsungqbe.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 84,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://gld.push.samsungosp.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 85,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://sas.samsungcloudsolution.com/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 86,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://events.cid.samba.tv/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    },
+    {
+        "id": 87,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://platform.cid.samba.tv/*",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "script",
+                "xmlhttprequest",
+                "image",
+                "stylesheet",
+                "object",
+                "other"
+            ]
+        }
+    }
+]
